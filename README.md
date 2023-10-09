@@ -44,9 +44,9 @@ Here are some of the technologies and tools I work with:
 
 I'm always thirsty for knowledge. Currently, I'm diving deep into:
 
-- Advanced Machine Learning techniques 🤖
-- Big Data and Distributed Computing 🌐
-- Data Visualization and Storytelling 📊
+- Devops 🤖
+- Pytorch 🌐
+
 
 ## Current Project 🚀
 
