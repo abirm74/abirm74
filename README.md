@@ -73,6 +73,6 @@ Discover some of my data-driven adventures:
 
    [See Project](link-to-project3)
 
-![Data Science Magic](https://image-link.com)
+---
 
 *Remember, in the world of data science, we turn raw data into gold through creativity and analysis!* 🌟
