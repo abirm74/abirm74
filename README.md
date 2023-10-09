@@ -44,7 +44,7 @@ Here are some of the technologies and tools I work with:
 
 I'm always thirsty for knowledge. Currently, I'm diving deep into:
 
-- Devops 🤖
+- DevOps 🤖
 - Pytorch 🌐
 
 
@@ -62,14 +62,11 @@ Leveraging machine learning and financial data to forecast stock prices and prov
 Discover some of my data-driven adventures:
 
 - **Project 1: Natural Language Processing for Sentiment Analysis 📰**  
-   Analyzing social media data to decipher public sentiment on various topics using NLP techniques.
+   The project focuses on sentiment analysis using the IMDb movie review dataset
+   [Explore Project](https://github.com/abirm74/FellowshipAI_NLPchallenge.git)
 
-   [Explore Project](link-to-project2)
-
-- **Project 2: Customer Segmentation & Personalized Recommendations 💡**  
-   Creating a tailored shopping experience by segmenting customers and building a recommendation engine.
-
-   [See Project](link-to-project3)
+- **Chronic Kidney Disease 💡**  
+   [See Project](https://github.com/abirm74/Chronic-kidney-disease.git)
 
 ---
 
