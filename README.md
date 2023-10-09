@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -50,7 +50,7 @@ I'm always thirsty for knowledge. Currently, I'm diving deep into:
 
 ## Current Project 🚀
 
-I'm currently immersed in an exciting project:
+I'm currently immersed in a new project:
 
 **Project: Predictive Analytics for Stock Market 📈**  
 Leveraging machine learning and financial data to forecast stock prices and provide investment recommendations.
