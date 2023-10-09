@@ -16,7 +16,7 @@
 
 
 Let's Connect 🌐
-I thrive on collaboration and the exchange of knowledge! Connect with me on [LinkedIn]([https://www.linkedin.com/in/abir-moula/]) to stay in the loop about my latest data-driven endeavors and join me on this incredible journey.
+I thrive on collaboration and the exchange of knowledge! Connect with me on [LinkedIn](https://www.linkedin.com/in/abir-moula/) to stay in the loop about my latest data-driven endeavors and join me on this incredible journey.
 
 Get in Touch 📞
 Have questions, feedback, or brilliant ideas for collaboration? Don't hesitate to reach out to me via email at [moulaabir.am@gmail.com](mailto:moulaabir.am@gmail.com). I'm always excited to connect, learn, and create together.
