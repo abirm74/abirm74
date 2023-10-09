@@ -10,16 +10,16 @@
 
 ---
 ### :woman_technologist: About Me:
-🔭 I’m currently Interning as Data Engineer<br>👯 I’m working on personal project <br>🤝 I’m looking to collaborate with others <br>🌱 I’m currently learning : LLMS , PowerBI <br>💬 You can reach me via email : moulaabir.am@gmail.com<br>⚡ Fun fact : <br>I'm currently a 2nd year IT engineering student specializing in Data/AI <br>I love reading books and baking
+🔭 I’m currently Interning as Data Engineer<br>👯 I’m working on personal project <br>🤝 I’m looking to collaborate with others <br>⚡ Fun fact : <br>I'm currently a 2nd year IT engineering student specializing in Data/AI <br>I love reading books and baking
 
 ---
-# Welcome to My Data Science Hub 📊🔍
+
 
 Let's Connect 🌐
-I thrive on collaboration and the exchange of knowledge! Connect with me on [LinkedIn](link-to-linkedin) to stay in the loop about my latest data-driven endeavors and join me on this incredible journey.
+I thrive on collaboration and the exchange of knowledge! Connect with me on [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/abir-moula/)) to stay in the loop about my latest data-driven endeavors and join me on this incredible journey.
 
 Get in Touch 📞
-Have questions, feedback, or brilliant ideas for collaboration? Don't hesitate to reach out to me via email at [your.email@example.com](mailto:your.email@example.com). I'm always excited to connect, learn, and create together.
+Have questions, feedback, or brilliant ideas for collaboration? Don't hesitate to reach out to me via email at [moulaabir.am@gmail.com](mailto:your.email@example.com). I'm always excited to connect, learn, and create together.
 
 ## Tech Stack and Tools 🛠️
 
@@ -38,9 +38,7 @@ Here are some of the technologies and tools I work with:
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
 
-## About Me 📚
-
-Hey there! I'm a passionate Data Science student, on a journey to unravel the secrets hidden within data. My fascination with data knows no bounds, and I'm excited to share my passion and projects with you.
+---
 
 ## What I'm Learning 🌱
 
