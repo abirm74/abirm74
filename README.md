@@ -66,7 +66,7 @@ Discover some of my data-driven adventures:
    [Explore Project](https://github.com/abirm74/FellowshipAI_NLPchallenge.git)
 
 - **Chronic Kidney Disease 💡**  
-   [See Project](https://github.com/abirm74/Chronic-kidney-disease.git)
+   [See Project]((https://github.com/abirm74/Chronic-kidney-disease.git))
 
 ---
 
