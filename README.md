@@ -64,10 +64,10 @@ Discover some of my data-driven adventures:
 - **Project 1: Natural Language Processing for Sentiment Analysis 📰**  
    The project focuses on sentiment analysis using the IMDb movie review dataset
 
-  [Explore Project]((https://github.com/abirm74/FellowshipAI_NLPchallenge.git))
+  [Explore Project](https://github.com/abirm74/FellowshipAI_NLPchallenge.git)
 - **Chronic Kidney Disease 💡**  
   
-  [Explore Project]((https://github.com/abirm74/Chronic-kidney-disease.git))
+  [Explore Project](https://github.com/abirm74/Chronic-kidney-disease.git)
 
 ---
 
