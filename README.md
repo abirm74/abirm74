@@ -10,7 +10,7 @@
 
 ---
 ### :woman_technologist: About Me:
-🔭 I’m currently Interning as Data Engineer<br>👯 I’m working on personal project <br>🤝 I’m looking to collaborate with others <br>⚡ Fun fact : <br>I'm currently a 2nd year IT engineering student specializing in Data/AI <br>I love reading books and baking
+🔭 I’m currently Interning as Data Engineer<br>👯 I’m working on personal project <br>🤝 I’m looking to collaborate with others <br>⚡ Fun fact :  <br>I love reading books and baking
 
 ---
 
