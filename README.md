@@ -13,10 +13,66 @@
 🔭 I’m currently Interning as Data Engineer<br>👯 I’m working on personal project <br>🤝 I’m looking to collaborate with others <br>🌱 I’m currently learning : LLMS , PowerBI <br>💬 You can reach me via email : moulaabir.am@gmail.com<br>⚡ Fun fact : <br>I'm currently a 2nd year IT engineering student specializing in Data/AI <br>I love reading books and baking
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abir-moula/) 
----
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-----
+# Welcome to My Data Science Hub 📊🔍
 
+Let's Connect 🌐
+I thrive on collaboration and the exchange of knowledge! Connect with me on [LinkedIn](link-to-linkedin) to stay in the loop about my latest data-driven endeavors and join me on this incredible journey.
+
+Get in Touch 📞
+Have questions, feedback, or brilliant ideas for collaboration? Don't hesitate to reach out to me via email at [your.email@example.com](mailto:your.email@example.com). I'm always excited to connect, learn, and create together.
+
+## Tech Stack and Tools 🛠️
+
+Here are some of the technologies and tools I work with:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=plastic&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
+
+## About Me 📚
+
+Hey there! I'm a passionate Data Science student, on a journey to unravel the secrets hidden within data. My fascination with data knows no bounds, and I'm excited to share my passion and projects with you.
+
+## What I'm Learning 🌱
+
+I'm always thirsty for knowledge. Currently, I'm diving deep into:
+
+- Advanced Machine Learning techniques 🤖
+- Big Data and Distributed Computing 🌐
+- Data Visualization and Storytelling 📊
+
+## Current Project 🚀
+
+I'm currently immersed in an exciting project:
+
+**Project: Predictive Analytics for Stock Market 📈**  
+Leveraging machine learning and financial data to forecast stock prices and provide investment recommendations.
+
+[Explore the Project](link-to-project1)
+
+## My Projects 🌟
+
+Discover some of my data-driven adventures:
+
+- **Project 1: Natural Language Processing for Sentiment Analysis 📰**  
+   Analyzing social media data to decipher public sentiment on various topics using NLP techniques.
+
+   [Explore Project](link-to-project2)
+
+- **Project 2: Customer Segmentation & Personalized Recommendations 💡**  
+   Creating a tailored shopping experience by segmenting customers and building a recommendation engine.
+
+   [See Project](link-to-project3)
+
+![Data Science Magic](https://image-link.com)
+
+*Remember, in the world of data science, we turn raw data into gold through creativity and analysis!* 🌟
